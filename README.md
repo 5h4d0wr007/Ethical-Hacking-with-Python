@@ -1,5 +1,5 @@
 # Ethical-Hacking-with-Python
-The difference between script kiddies and professionals is the difference between merely using other people's tools and writing your own. 
+When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. But just how does the magic happen? 
 
 
 # 1. MAC Address Changer-
